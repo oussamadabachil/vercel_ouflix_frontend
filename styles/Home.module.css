@@ -213,6 +213,20 @@
 }
 
 @media screen and (max-width:1000px) {
+  .popupdetail>div:last-child{
+  margin: 0 auto;
+
+  position: relative;
+  height: 100%;
+  border-radius: .5rem; 
+  display: block;
+
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  /* float: right; */
+
+
+}
 
     
 .popupdetail{
