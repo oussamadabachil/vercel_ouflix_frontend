@@ -89,7 +89,7 @@
         color: red;
         font-size: 1.7rem;
         list-style: none;
-        margin-left: 1rem;
+        margin-left: -1rem;
     }
     .header>ul>li>.popover{
         border: none;
