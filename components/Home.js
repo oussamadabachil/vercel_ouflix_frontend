@@ -78,8 +78,7 @@ if(valueCssDetails){
     .then(response => response.json())
       .then(data => {
 
-        const dataMap = data.movies.results.map((movie,i)=>{
-
+        const dataMap = data.results.map((movie,i)=>{
         return {  title  : movie.title,
           poster : "https://image.tmdb.org/t/p/w500"+movie.poster_path,
           voteAverage :movie.vote_average ,
