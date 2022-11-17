@@ -240,8 +240,8 @@
   position: fixed;
   top: 50%;
   left: 50%;
-  width: 90%;
-  height: 45rem;
+  width: 34rem;
+  height: 47rem;
   border-radius: .3rem;
 }
 .popupdetail>div:first-child{
