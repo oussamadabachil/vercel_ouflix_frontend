@@ -2,7 +2,6 @@ import styles from '../styles/Home.module.css';
 import Header from './Header';
 import {Animated} from "react-animated-css";
 
-
 import Movies from './Movies';
 
 import { useState,useEffect } from 'react';
